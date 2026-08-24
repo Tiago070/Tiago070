@@ -16,16 +16,16 @@
 ## `> SOBRE_MIM.exe`
 
 ```yaml
-localizacao: Ceres, Goias - Brasil
-formacao: Bacharelado em Sistemas de Informacao (6o periodo) - IF Goiano, Campus Ceres
+localizacao: Ceres, Goiás - Brasil
+formacao: Bacharelado em Sistemas de Informação (6º período) - IF Goiano, Campus Ceres
 previsao_conclusao: 2027/2
-vinculo_pesquisa: Nucleo NEPeTI, orientador Prof. Adriano Honorato Braga
+vinculo_pesquisa: Núcleo NEPeTI, orientador Prof. Adriano Honorato Braga
 bolsa: PIBITI/CNPq
-foco: Realidade Virtual, Visao Computacional, Analise de Dados, Web
-modalidade_desejada: Estagio remoto (ate 30h semanais)
+foco: Realidade Virtual, Visão Computacional, Análise de Dados, Web
+modalidade_desejada: Estágio remoto (até 30h semanais)
 ```
 
-Atuo com pesquisa aplicada e desenvolvimento na interseccao entre tecnologias imersivas e dados, com producao continua de artigos cientificos em eventos como SBIE, SVR, RBEPT, Latinoware e ENCompIF. Tenho experiencia direta como tutor de tecnologias emergentes (Robotica, Impressao 3D, Realidade Virtual) em oficinas do IF Goiano e do Pronatec Empreender.
+Atuo com pesquisa aplicada e desenvolvimento na interseção entre tecnologias imersivas e dados, com produção contínua de artigos científicos em eventos como SBIE, SVR, RBEPT, Latinoware e ENCompIF. Tenho experiência direta como tutor de tecnologias emergentes (Robótica, Impressão 3D, Realidade Virtual) em oficinas do IF Goiano e do Pronatec Empreender.
 
 <br>
 
@@ -37,11 +37,11 @@ Atuo com pesquisa aplicada e desenvolvimento na interseccao entre tecnologias im
 
 </div>
 
-**Tecnologias imersivas e maker:** WebXR/A-Frame, Realidade Virtual (Meta Quest 2), YOLO (visao computacional), Arduino, modelagem e impressao 3D (Cura)
+**Tecnologias imersivas e maker:** WebXR/A-Frame, Realidade Virtual (Meta Quest 2), YOLO (visão computacional), Arduino, modelagem e impressão 3D (Cura)
 
-**Dados:** modelagem de dados, consultas SQL, Business Intelligence (Power BI), analise e organizacao de dados
+**Dados:** modelagem de dados, consultas SQL, Business Intelligence (Power BI), análise e organização de dados
 
-**Engenharia de software:** engenharia de requisitos, versionamento Git/GitHub, metodologias ageis (Scrum/Kanban)
+**Engenharia de software:** engenharia de requisitos, versionamento Git/GitHub, metodologias ágeis (Scrum/Kanban)
 
 <br>
 
@@ -72,9 +72,9 @@ Atuo com pesquisa aplicada e desenvolvimento na interseccao entre tecnologias im
 
 **Classificador YOLO11-cls de soja**
 
-96% de acuracia Top-1 sobre 5.513 imagens em 5 classes. Apresentado no AgroStartup 2026 (SENAR/SEBRAE Goias). Em migracao do Google Colab para um repositorio estruturado.
+96% de acurácia Top-1 sobre 5.513 imagens em 5 classes. Apresentado no AgroStartup 2026 (SENAR/SEBRAE Goiás). Em migração do Google Colab para um repositório estruturado.
 
-`Python` `YOLO` `Visao Computacional`
+`Python` `YOLO` `Visão Computacional`
 
 </td>
 <td width="33%" valign="top">
@@ -83,20 +83,20 @@ Atuo com pesquisa aplicada e desenvolvimento na interseccao entre tecnologias im
 
 **Tour virtual 360 em WebXR**
 
-SUS score 88.65, media heuristica 4.68/5.0. Software registrado no INPI (e-Software), coautoria com Prof. Adriano Honorato Braga, titularidade IF Goiano. Testado com mais de 200 usuarios.
+SUS score 88.65, média heurística 4.68/5.0. Software registrado no INPI (e-Software), coautoria com Prof. Adriano Honorato Braga, titularidade IF Goiano. Testado com mais de 200 usuários.
 
 `WebXR` `A-Frame` `JavaScript`
 
 </td>
 <td width="33%" valign="top">
 
-### Evolucao dos Cursos de Computacao no Brasil
+### Evolução dos Cursos de Computação no Brasil
 
 **Proposta PIBIC 2026-2027**
 
-Analise da oferta de cursos de graduacao em Computacao no Brasil usando microdados do Censo da Educacao Superior do INEP (2001-2024), tratados em Power BI. Submissao alvo: EduComp/WIE, CSBC.
+Análise da oferta de cursos de graduação em Computação no Brasil usando microdados do Censo da Educação Superior do INEP (2001-2024), tratados em Power BI. Submissão alvo: EduComp/WIE, CSBC.
 
-`Power BI` `Dados Publicos` `Pesquisa`
+`Power BI` `Dados Públicos` `Pesquisa`
 
 </td>
 </tr>
@@ -110,10 +110,10 @@ Analise da oferta de cursos de graduacao em Computacao no Brasil usando microdad
 tiago@if-goiano:~$ status --atual
 
 [x] Bolsista PIBITI - Realidade Virtual Aplicada (IF Goiano / NEPeTI)
-[x] Pesquisa PIBIC - Evolucao dos cursos de Computacao no Brasil
-[ ] Migrando GrãoVision (YOLO11-cls) do Colab para repositorio estruturado
-[ ] Certificacao de ingles EF SET
-[ ] Buscando estagio remoto em Desenvolvimento / Dados / IA (ate 30h semanais)
+[x] Pesquisa PIBIC - Evolução dos cursos de Computação no Brasil
+[ ] Migrando GrãoVision (YOLO11-cls) do Colab para repositório estruturado
+[ ] Certificação de inglês EF SET
+[ ] Buscando estágio remoto em Desenvolvimento / Dados / IA (até 30h semanais)
 
 tiago@if-goiano:~$ _
 ```

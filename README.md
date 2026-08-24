@@ -17,15 +17,16 @@
 
 ```yaml
 localizacao: Ceres, Goiás - Brasil
-formacao: Bacharelado em Sistemas de Informação (6º período) - IF Goiano, Campus Ceres
+formacao: Bacharelado em Sistemas de Informação (6º período) | IF Goiano - Campus Ceres
 previsao_conclusao: 2027/2
-vinculo_pesquisa: Núcleo NEPeTI, orientador Prof. Adriano Honorato Braga
+vinculo_pesquisa: Núcleo de Estudos e Pesquisa em Tecnologia da Informação (NEPeTI)
+orientador: Prof. Me. Adriano Honorato Braga
 bolsa: PIBITI/CNPq
-foco: Realidade Virtual, Visão Computacional, Análise de Dados, Web
-modalidade_desejada: Estágio remoto (até 30h semanais)
+foco: Desenvolvimento Web, Análise de Dados, Realidade Virtual, Visão Computacional
+modalidade_desejada: Estágio remoto
 ```
 
-Atuo com pesquisa aplicada e desenvolvimento na interseção entre tecnologias imersivas e dados, com produção contínua de artigos científicos em eventos como SBIE, SVR, RBEPT, Latinoware e ENCompIF. Tenho experiência direta como tutor de tecnologias emergentes (Robótica, Impressão 3D, Realidade Virtual) em oficinas do IF Goiano e do Pronatec Empreender.
+Atuo com pesquisa aplicada e desenvolvimento na interseção entre tecnologias imersivas e dados, com produção contínua de artigos científicos em eventos como Computer on the Beach, EduComp, CLEI, SVR, Latinoware, e revista RBEPT. Tenho experiência direta como tutor de tecnologias emergentes (Robótica, Impressão 3D, Realidade Virtual) em oficinas do IF Goiano e do Pronatec Empreender.
 
 <br>
 
@@ -72,7 +73,7 @@ Atuo com pesquisa aplicada e desenvolvimento na interseção entre tecnologias i
 
 **Classificador YOLO11-cls de soja**
 
-96% de acurácia Top-1 sobre 5.513 imagens em 5 classes. Apresentado no AgroStartup 2026 (SENAR/SEBRAE Goiás). Em migração do Google Colab para um repositório estruturado.
+96% de acurácia Top-1 sobre 5.513 imagens em 5 classes. Apresentado no AgroStartup 2026 (SENAR/SEBRAE Goiás).
 
 `Python` `YOLO` `Visão Computacional`
 
@@ -94,7 +95,7 @@ SUS score 88.65, média heurística 4.68/5.0. Software registrado no INPI (e-Sof
 
 **Proposta PIBIC 2026-2027**
 
-Análise da oferta de cursos de graduação em Computação no Brasil usando microdados do Censo da Educação Superior do INEP (2001-2024), tratados em Power BI. Submissão alvo: EduComp/WIE, CSBC.
+Análise da oferta de cursos de graduação em Computação no Brasil usando microdados do Censo da Educação Superior do INEP (2001-2024), tratados em Power BI. Submissão alvo: EduComp, WEI CSBC.
 
 `Power BI` `Dados Públicos` `Pesquisa`
 
